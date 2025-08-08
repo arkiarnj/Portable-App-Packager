@@ -215,7 +215,7 @@ def copy_files_flow():
 def show_about():
     clear_screen()
     print("""
-Portable App Packager v1.1
+Portable App Packager v1.0
 Author: Arkiarnj
 
 This tool helps you package projects from
